@@ -7,7 +7,7 @@
 
 /* WALLET CONNECT */
 [data-tc-button="true"] {
-    background-color: #252F43 !important;
+    background-color: #fffff !important;
 }
 #tonAddress {
     display:none;
@@ -57,7 +57,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #272a2f;
-    background: linear-gradient(0deg, #252F43, #04C98E);
+    background: linear-gradient(0deg, #6d0f6e, #3c326e);
     user-select: none;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -214,7 +214,7 @@ hr {
 .info__container img {
     height: 20px;
     margin-right: 5px;
-    filter: drop-shadow(0 0 0.2rem #26f0b1);
+    filter: drop-shadow(0 0 0.2rem #b615d3);
 }
 
 .info__container:nth-child(1) .info__title {
@@ -275,11 +275,11 @@ hr {
     justify-content: center;
     align-items: center;
     width: 100%;
-    border: 2px solid #2c3032;
+    border: 2px solid #8c45c0;
     background-color: #252F43;
     overflow: hidden;
     height: 20px;
-    padding: 2px;
+    padding: 1px;
     border-radius: 10px;
     margin-top: 6px;
 }
@@ -315,7 +315,7 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #252F43;
+    background-color: #72288a;
     margin-top: 20px;
     width: 250px;
     height: 250px;
@@ -665,8 +665,8 @@ hr {
 }
 
 .menu-bar__nav {
-    background-color: #252F43;
-    box-shadow: 0 0 2px 2px #04C98E;
+    background-color: #2e0c3d;
+    box-shadow: 0 0 2px 2px #a13fad;
     max-width: 768px;
     padding: 4px;
     justify-content: space-between;
@@ -691,7 +691,7 @@ hr {
 }
 
 .menu-bar__item__active {
-    background-color: #04C98E;
+    background-color: #50246e;
     color: #fff;
 }
 
